@@ -80,6 +80,10 @@ docker-compose up
 
 O PDF da aula está disponível no diretório material-da-aula com o nome do arquivo FIAP_AULA_TESTE_DOCKER.pdf. Você pode acessar o material [aqui](https://github.com/andreleao1/fiap-docker/blob/main/material-da-aula/FIAP_AUAL_TESTE_DOCKER.pdf).
 
+## Vídeo da Aula
+
+O vídeo com a gravação da aula pode ser assistido no youtube clicando [aqui](https://www.youtube.com/watch?v=pq2renkgW4w)
+
 
 ## Referências
 - [Documentação oficial do Docker](https://docs.docker.com/)
