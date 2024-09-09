@@ -78,7 +78,7 @@ docker-compose up
 
 ## Material da Aula
 
-O PDF da aula está disponível no diretório material-da-aula com o nome do arquivo FIAP_AULA_TESTE_DOCKER.pdf. Você pode acessar o material [aqui](https://github.com/andreleao1/fiap-docker/blob/main/docker-compose.yaml).
+O PDF da aula está disponível no diretório material-da-aula com o nome do arquivo FIAP_AULA_TESTE_DOCKER.pdf. Você pode acessar o material [aqui](https://github.com/andreleao1/fiap-docker/blob/main/material-da-aula/FIAP_AUAL_TESTE_DOCKER.pdf).
 
 
 ## Referências
